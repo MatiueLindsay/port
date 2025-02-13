@@ -65,8 +65,16 @@
     width: 100%;
   }
   
+ .color{
+
+  height: 1000px;
+  width: 1000px;
+  margin-left: 100px;
+    background-image: radial-gradient(closest-side, rgba(133, 185, 216, 0.21), #000);
+    filter: blur(10px);
+    border-radius: 1000px;
+  }
  
-  
   .nav-link {
     display: flex;
     align-items: center;
